@@ -1,3 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode (https://osp4diss.vlsm.org/ETC/logCodes.txt)
+
+ZCZC W00 100 L02 CLASSROOM
+ZCZC W00 15 L03 GitHub setup
+ZCZC W00 5 L04 GitHub Pages setup
+ZCZC W00 15 L05 QUIZ related
+ZCZC W00 40 L09 Weekly assignments
+ZCZC W00 60 L32 Asynchronous Class assigned video
